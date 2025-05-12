@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7c5b59281c7f805",
+        "id": "d186b84bdd3f7798",
         "type": "tabs",
         "children": [
           {
-            "id": "c6d8ba7b563ef657",
+            "id": "d9311c76cb18f788",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,11 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "c6d8ba7b563ef657",
+  "active": "4ad9647c05dfb92f",
   "lastOpenFiles": [
-    "esg-auth.md",
+    "Welcome.md",
     "2 апреля.md",
+    "esg-auth.md",
     "апрель",
     "март/2025-03-13.md",
     "март/2025-03-18.md",
@@ -186,7 +187,6 @@
     "февраль/2025-02-13.md",
     "февраль/2025-02-11.md",
     "февраль/2025-02-10.md",
-    "Welcome.md",
     "март/2025-03-05.md",
     "март/2025-03-04.md",
     "март/2025-03-03.md",
