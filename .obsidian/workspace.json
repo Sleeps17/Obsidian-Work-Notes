@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "31de875eff676e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c5b59281c7f805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6d8ba7b563ef657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 апреля.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 апреля"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d00f96d79ae08780",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa60a2210f1d205a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad9647c05dfb92f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "adb280e2cc2833a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "80d5ca2beae6517b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb74e2d9c3865fee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a271ee0b011ec34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac1f06d2d1fd3e6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-01-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-23"
+            }
+          },
+          {
+            "id": "1704d9b49968900c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-01-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-23"
+            }
+          },
+          {
+            "id": "625c33f81d70269e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e15f35ee578fd5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-01-23.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "c6d8ba7b563ef657",
+  "lastOpenFiles": [
+    "esg-auth.md",
+    "2 апреля.md",
+    "апрель",
+    "март/2025-03-13.md",
+    "март/2025-03-18.md",
+    "Вопросы.md",
+    "март/2025-03-12.md",
+    "март/2025-03-11.md",
+    "март/2025-03-10.md",
+    "март",
+    "январь/2025-01-22.md",
+    "январь/2025-01-23.md",
+    "январь",
+    "февраль",
+    "март/2025-03-06.md",
+    "февраль/2025-02-25.md",
+    "февраль/2025-02-18.md",
+    "февраль/2025-02-13.md",
+    "февраль/2025-02-11.md",
+    "февраль/2025-02-10.md",
+    "Welcome.md",
+    "март/2025-03-05.md",
+    "март/2025-03-04.md",
+    "март/2025-03-03.md",
+    "Выкатить ограничения.md",
+    "февраль/2025-02-26.md",
+    "февраль/2025-02-24.md",
+    "февраль/2025-02-21.md",
+    "февраль/2025-02-20.md"
+  ]
+}
